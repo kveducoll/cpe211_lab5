@@ -1,0 +1,27 @@
+# Compiled output
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# IDE-specific files
+.idea/
+*.iml
+.project
+.classpath
+.settings/
+nbproject/
+
+# Dependency management caches
+# .m2/repository/ # Uncomment if you want to ignore local Maven repository
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Log files and temporary files
+*.log
+*.tmp
+*~
+*.swp
